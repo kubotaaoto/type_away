@@ -1,6 +1,6 @@
 # type_away
 
-type_away is a CLI application that lets you practice typing casually. This application is for those who just want to type something without having to worry about speed.
+type_away is a CLI application that lets you practice typing casually. This application is for those who just want to type something without having to worry about speed. The total char count will persist between runs.
 
 ![demo image](./demo_image.png)
 
